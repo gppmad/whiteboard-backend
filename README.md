@@ -8,7 +8,7 @@ It will expose REST API that allows to create and remove thoughts from a data so
 ### You need to have Java 11 installed in your system. <br>
 
 Clone the project into a folder <br>
-`git clone git@github.com:gppmad/whiteboard-backend.git`
+```git clone git@github.com:gppmad/whiteboard-backend.git```
 
 Run the spring boot project <br>
-`mvn spring-boot:run`
+```mvn spring-boot:run```
